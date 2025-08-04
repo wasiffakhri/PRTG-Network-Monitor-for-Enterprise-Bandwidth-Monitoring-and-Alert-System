@@ -7,4 +7,4 @@ A fully implemented project using PRTG Network Monitor to track real-time bandwi
 - Set thresholds and trigger alerts (email/SMS).
 - Generate historical reports for audits or optimization.
 
-A network topology diagram in commits is illustrating the PRTG deployment.
+A network topology diagram is attached in comment section for illustrating the PRTG deployment.
